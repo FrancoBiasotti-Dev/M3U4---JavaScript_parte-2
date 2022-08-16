@@ -1,0 +1,17 @@
+button{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+#cuadrado1{
+    background: red;
+}
+
+#cuadrado2{
+    background: green;
+}
+
+#cuadrado3{
+    background: blue;
+}
